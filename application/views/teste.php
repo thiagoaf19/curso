@@ -2,7 +2,7 @@
 <html lang=<"en">
 <head>
     <meta charset="UTF-8">
-    <title>Bla - Bla</title>
+    <title>Bla - Blat</title>
 </head>
 
 <body>
